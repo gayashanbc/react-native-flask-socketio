@@ -5,7 +5,7 @@
 - Make sure that you have the reuired libraries installed and run the command ```python3 chat.py```
 - Navigate back to the root folder
 - Run ```yarn install``` or ```npm install```
-- Make sure you have React Native CLI installed and run ```react-native run-android``` or ```react-native-run-ios```
+- Make sure you have React Native CLI installed and run ```react-native run-android``` or ```react-native run-ios```
 
 ### Notice
 Based on your device change the host port accordingly in the App.js file.
